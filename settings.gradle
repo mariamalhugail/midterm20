@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "[mariam alhugail]midterm20"
